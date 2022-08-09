@@ -6,6 +6,12 @@ Esse repositório estará em ordem cronológica de cursos, seguindo o cronograma
 
 **Importante:** Utilizaremos o Anaconda, e como IDE o Jupyter Notebook.
 
+## Organização das pastas
+As pastas estão organizadas por número (ordem crescente) e letra (se é um curso, ou um módulo do curso)
+  * C = Curso
+  * M = Módulo<br><br> 
+  Ex.: 1C_PythonPandasTratando&AnalisandoDados
+
 ## 1° Passo:
 Instalar o Anaconda e criar um ambiente virtual.
 

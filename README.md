@@ -21,5 +21,7 @@ Já quando criamos um ambiente virtual, conseguimos deixar o python, as bibliote
 
 [Clique aqui](https://www.youtube.com/watch?v=stEvUVvYD00) para ver como criar um ambiente virtual utilizando o Anaconda.
 
+O nosso 1° ambiente se chamará "alura_pandas".
+
 ## 2° Passo:
 Seguir as pastas.

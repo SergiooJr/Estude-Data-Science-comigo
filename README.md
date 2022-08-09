@@ -20,3 +20,6 @@ Um ambiente virtual é essencial para que os código não tenham data de validad
 Já quando criamos um ambiente virtual, conseguimos deixar o python, as bibliotecas, numa versão específica, e com isso rodar novas bases de dados no mesmo algoritmo, sem precisar atualizá-lo.
 
 [Clique aqui](https://www.youtube.com/watch?v=stEvUVvYD00) para ver como criar um ambiente virtual utilizando o Anaconda.
+
+## 2° Passo:
+Seguir as pastas.
